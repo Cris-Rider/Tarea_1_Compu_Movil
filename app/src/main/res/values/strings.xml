@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea_1_Compu_Movil</string>
+    <string name="actividadCalendario">Calendario</string>
+    <string name="actividadTareas">Tareas</string>
+    <string name="ingresoAT">Ver Tareas</string>
+    <string name="ingresoAC">Ver Calendario</string>
+    <string name="tarea">Tarea X</string>
+</resources>
